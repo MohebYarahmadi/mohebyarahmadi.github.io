@@ -24,14 +24,7 @@ const themeIcon = document.getElementById(
  */
 
 const moonIcon = `
-    <path
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        d="M21.752 15.002A9.718 9.718 0 0118 15.75
-        A9.75 9.75 0 018.25 6
-        c0-1.33.266-2.598.748-3.752
-        A9.753 9.753 0 0021.752 15.002z"
-    />
+    <path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"/></svg>
 `;
 
 

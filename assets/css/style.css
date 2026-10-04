@@ -15,7 +15,7 @@
   --button-background: rgba(255, 255, 255, 0.75);
   --button-border: #e2e8f0;
 
-  --accent: #6366f1;
+  --accent: #1a7dda;
 }
 
 .dark {
@@ -145,7 +145,7 @@ body {
 
   border-radius: 28px;
 
-  background: rgba(99, 102, 241, 0.35);
+  background: #0dbde959;
 
   filter: blur(30px);
 }
@@ -163,9 +163,9 @@ body {
 
   border-radius: 28px;
 
-  background: linear-gradient(135deg, #6366f1, #8b5cf6, #d946ef);
+  background: linear-gradient(135deg, #63a5f1, #5c8df6, #46abef);
 
-  color: white;
+  color: #fff;
 
   font-size: 36px;
   font-weight: 900;
