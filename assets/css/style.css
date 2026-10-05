@@ -15,7 +15,7 @@
   --button-background: rgba(255, 255, 255, 0.75);
   --button-border: #e2e8f0;
 
-  --accent: #1a7dda;
+  --accent: #00d2ff;
 }
 
 .dark {
@@ -163,7 +163,9 @@ body {
 
   border-radius: 28px;
 
-  background: linear-gradient(135deg, #63a5f1, #5c8df6, #46abef);
+  /* background: linear-gradient(135deg, #1e1e1e, #0D95D9, #1e1e1e); */
+  background: linear-gradient(135deg, #00d2ff 0%, hsl(235, 65%, 53%) 100%);
+  
 
   color: #fff;
 
@@ -345,13 +347,13 @@ body {
 }
 
 .featured-icon {
-  background: #6366f1;
+  background: #3a47d5;
 
   color: white;
 }
 
 .violet {
-  background: rgba(139, 92, 246, 0.1);
+  background: #8b5cf61a;
 
   color: #8b5cf6;
 }
